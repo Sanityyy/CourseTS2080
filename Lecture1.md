@@ -1,6 +1,10 @@
 ## What is object oriented programming?
 
-Answer here
+Its a way to organize code
+2 main points
+    -Data 
+    -Objects 
+Method to manipulate data, rather than write more code
 
 ## What are the basic concepts of OOP?
 
@@ -8,11 +12,21 @@ Answer here
 
 ## What are the main principles of OOP?
 
-Answer here
+Encapsulation
+Abstraction
+Polymorhpisim
+Inheritence  
 
 ## Encapsulation
 
-Encapsulation is...
+Bundling
+
+Types
+    -Public
+    -Private
+    -protected
+
+Data security 
 
 ## Abstraction
 
